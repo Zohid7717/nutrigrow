@@ -122,4 +122,8 @@ header nav{
 }
 header a{
   display: block;
+  transition: 0.5s;
+}
+header .active{
+  color: blueviolet;
 }
